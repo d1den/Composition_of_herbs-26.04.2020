@@ -1,7 +1,7 @@
 # Composition_of_herbs-26.04.2020
 ## Состав травяного сбора
 **Задание:**  
-![task](https://github.com/d1den/Composition_of_herbs-26.04.2020/blob/master/images/task.JPG?raw=true "task") 
+![task](https://github.com/d1den/Composition_of_herbs-26.04.2020/blob/master/images/task.JPG?raw=true "task")  
 **Репозиторий включает в себя следующие папки:**  
 1. prog1 (project) - папка проекта Windows Forms (.Net Framework) на c# в Visual Studio;
 2. images - папка с изображениями, приложенными к данному описанию;  
